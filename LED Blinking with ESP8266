@@ -1,0 +1,15 @@
+/* 
+Task : LED Blinking with ESP8266 
+Name : Gopal Digambar Dhanokar
+*/
+
+const int led = 5; //GPIO5 
+void setup() {
+  pinMode(led, OUTPUT);
+}
+void loop() {
+  digitalWrite(led, HIGH);
+  delay(1000);
+  digitalWrite(led, LOW);
+  delay(1000);
+}

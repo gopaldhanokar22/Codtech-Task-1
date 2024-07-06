@@ -3,7 +3,7 @@ Task : LED Blinking with ESP8266
 Name : Gopal Digambar Dhanokar
 */
 
-const int led = 5; //GPIO5 
+const int led = D1; //GPIO16
 void setup() {
   pinMode(led, OUTPUT);
 }

@@ -73,3 +73,23 @@ raspberry pi pico (GP28) = Led(+)\
 raspberry pi pico (GND) = Led(-)\
 raspberry pi pico (VCC) = 3v3 Supply\
 raspberry pi pico (GND) = GND
+
+#**LED Blinking with 8051 Microcontroller**
+
+**Component Required:** \
+            Hardware: LED, 8051 Microcontroller, 200ohm resistor, Jumper wire \
+            Software: Keil uVision and ISP Programmer
+
+**Circuit Diagram:**
+![Brown Simple Outfit Style Kids Youtube Thumbnail](https://github.com/gopaldhanokar22/Codtech-Task-1/assets/160303183/c0ff5d3a-2b6d-48b8-a375-fcb2cc9ffc95)
+
+
+
+
+
+**Connection raspberry pi pico and Led:** \
+8051 Microcontroller P1.1 Connected with Resistor and positive Terminal of led connected to resistor and another terminal is ground \
+8051 Microcontroller (P1.1) = Led(+)\
+8051 Microcontroller (GND) = Led(-)\
+8051 Microcontroller (VCC) = 12v Supply\
+8051 Microcontroller (GND) = GND

@@ -1,5 +1,12 @@
 # Codtech-Task-1
 
+**Name:** Gopal Digambar Dhanokar\
+**Company:** CODTECH IT SOLUTION\
+**ID:** CT6ES637\
+**Domain:** Embedded System\
+**Duration:** JUNE 25th,2024 to AUGUST 10th, 2024
+
+
 #**LED Blinking with Arduino Uno R3**
 
 **Component Required:** \

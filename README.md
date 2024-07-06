@@ -47,12 +47,29 @@ Arduino NANO (GND) = GND
 ![Screenshot 2024-07-06 072603](https://github.com/gopaldhanokar22/Codtech-Task-1/assets/160303183/10fba844-c1d6-447c-9d2d-287e5875ea06)
 
 
-
-
-
 **Connection ESP8266 and Led:** \
 ESP8266 Pin D1 Connected with Resistor and positive Terminal of led connected to resistor and another terminal is ground \
 ESP8266 (D1) = Led(+)\
 ESP8266 (GND) = Led(-)\
 ESP8266 (VCC) = 5v Supply\
 ESP8266 (GND) = GND
+
+
+#**LED Blinking with raspberry pi pico**
+
+**Component Required:** \
+            Hardware: LED, raspberry pi pico, 200ohm resistor, Breadboard, Jumper wire \
+            Software: Thonny IDE
+
+**Circuit Diagram:**
+![Screenshot 2024-07-06 073734](https://github.com/gopaldhanokar22/Codtech-Task-1/assets/160303183/fd25d04a-6def-4064-bcb4-4081a09aba13)
+
+
+
+
+**Connection raspberry pi pico and Led:** \
+raspberry pi picoPin GP28 Connected with Resistor and positive Terminal of led connected to resistor and another terminal is ground \
+raspberry pi pico (GP28) = Led(+)\
+raspberry pi pico (GND) = Led(-)\
+raspberry pi pico (VCC) = 3v3 Supply\
+raspberry pi pico (GND) = GND
